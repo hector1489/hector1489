@@ -2,27 +2,34 @@
 
 ¡Bienvenido a mi perfil de GitHub! 👋
 
-Acerca de mí:
+#Acerca de mí:
 
 🌱 Actualmente estoy aprendiendo C# y .Net.
+
 💼 Trabajo como administrativo freelance.
+
 🎓 Soy graduado en desarrollo web full-stack js.
+
 🌍 Me encanta explorar nuevas tecnologías y aprender cosas nuevas.
+
 😄 Pronombres: Reptar.
 
-Mis habilidades
+#Mis habilidades
 
 💻 React|Html|Css|Tailwind|Node|Express|vite|vitest|mock
+
 🚀 JS|TS|Html|Css|Figma|React|Vite|Vitest|Node.js|express|Jwt|Jest
 
-Colaboración
+#Colaboración
 
 👯 Estoy interesado en colaborar en proyectos relacionados con IA|Ciberseguridad|scraping|manejo de DB.
+
 🤔 Estoy buscando ayuda con la busqueda de empleo TI.
 
-Contacto
+#Contacto
 
 📫 Puedes contactarme en g.p.hector.alejandro@gmail.com.
+
 🔗 Mi página web: https://reptar1.netlify.app/.
 
 
