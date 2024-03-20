@@ -24,7 +24,6 @@
 
 👯 Estoy interesado en colaborar en proyectos relacionados con IA|Ciberseguridad|scraping|manejo de DB.
 
-🤔 Estoy buscando ayuda con la busqueda de empleo TI.
 
 #Contacto
 
