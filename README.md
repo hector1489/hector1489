@@ -28,10 +28,13 @@
 #Contacto
 
 📫 Puedes contactarme en: 
+
     g.p.hector.alejandro@gmail.com.
     https://www.linkedin.com/in/hgonzalezpastenes/
 
-🔗 Mi página web: https://reptar1.netlify.app/.
+🔗 Mi página web: 
+    
+    https://reptar1.netlify.app/.
 
 
 
