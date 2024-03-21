@@ -1,4 +1,4 @@
-¡Hola! Soy Hector, un apasionado desarrollador web Full Stack JS .
+¡Hola! Soy Hector, un apasionado desarrollador web Full Stack y cyberauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
 
@@ -8,7 +8,7 @@
 
 💼 Trabajo como administrativo freelance.
 
-🎓 Soy graduado en desarrollo web full-stack js.
+🎓 Soy graduado en desarrollo web full-stack.
 
 🌍 Me encanta explorar nuevas tecnologías y aprender cosas nuevas.
 
@@ -16,7 +16,7 @@
 
 #Mis habilidades
 
-💻 React|Html|Css|Tailwind|Node|Express|vite|vitest|mock
+💻 React|Html|Css|Tailwind|Node|Express|vite|vitest|mock|jwt
 
 🚀 JS|TS|Html|Css|Figma|React|Vite|Vitest|Node.js|express|Jwt|Jest
 
@@ -27,7 +27,9 @@
 
 #Contacto
 
-📫 Puedes contactarme en g.p.hector.alejandro@gmail.com.
+📫 Puedes contactarme en: 
+    g.p.hector.alejandro@gmail.com.
+    https://www.linkedin.com/in/hgonzalezpastenes/
 
 🔗 Mi página web: https://reptar1.netlify.app/.
 
