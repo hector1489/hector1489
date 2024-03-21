@@ -1,8 +1,8 @@
-¡Hola! Soy Hector, un apasionado desarrollador web Full Stack y cyberauta.
+# ¡Hola! Soy Hector, un apasionado desarrollador web Full Stack y cyberauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
 
-#Acerca de mí:
+## Acerca de mí:
 
 🌱 Actualmente estoy aprendiendo C# y .Net.
 
@@ -14,18 +14,18 @@
 
 😄 Pronombres: Reptar.
 
-#Mis habilidades
+## Mis habilidades
 
 💻 React|Html|Css|Tailwind|Node|Express|vite|vitest|mock|jwt
 
 🚀 JS|TS|Html|Css|Figma|React|Vite|Vitest|Node.js|express|Jwt|Jest
 
-#Colaboración
+## Colaboración
 
 👯 Estoy interesado en colaborar en proyectos relacionados con IA|Ciberseguridad|scraping|manejo de DB.
 
 
-#Contacto
+## Contacto
 
 📫 Puedes contactarme en: 
 
