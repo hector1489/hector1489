@@ -1,4 +1,4 @@
-# ¡Hola! Soy Hector, un apasionado desarrollador web Full Stack y cybernauta.
+# ¡Hola! Soy Hector, desarrollador web Full Stack y cybernauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
 
