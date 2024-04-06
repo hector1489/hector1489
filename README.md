@@ -22,7 +22,9 @@
 
 ## Colaboración
 
-🤟 En mi portfolio dejo los proyectos tipo planillas para la comunidad dev. Espero ayudarlos a reducir sus tiempos de creacion. 
+🤟 En mi portfolio dejo los proyectos tipo planillas para la comunidad dev. Espero ayudarlos a reducir 
+   sus tiempos de creacion y produccion.
+   
 👯 Estoy interesado en colaborar en proyectos relacionados con IA|Ciberseguridad|scraping|manejo de DB.
 
 
