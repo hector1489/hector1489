@@ -6,8 +6,6 @@
 
 🌱 Actualmente estoy aprendiendo C# y .Net.
 
-💼 Trabajo como administrativo freelance.
-
 🎓 Soy graduado en desarrollo web full-stack.
 
 🌍 Me encanta explorar nuevas tecnologías y aprender cosas nuevas.
