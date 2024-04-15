@@ -4,7 +4,7 @@
 
 ## Acerca de mí:
 
-🌱 Actualmente estoy aprendiendo C# y .Net.
+🌱 Actualmente estoy aprendiendo Azure, C# y .Net.
 
 🎓 Soy graduado en desarrollo web full-stack.
 
