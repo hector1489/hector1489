@@ -31,6 +31,7 @@
 📫 Puedes contactarme en: 
 
     g.p.hector.alejandro@gmail.com.
+    
     https://www.linkedin.com/in/hgonzalezpastenes/
 
 🔗 Mi página web: 
