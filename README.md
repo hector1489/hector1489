@@ -8,22 +8,24 @@
 
 🎓 Soy graduado en desarrollo web full-stack.
 
-🌍 Me encanta explorar nuevas tecnologías y aprender cosas nuevas.
+🌍 Me encanta explorar nuevas tecnologías y me apasiona aprender cosas nuevas.
 
-😄 Pronombres: Reptar.
+🐉 Pronombres: R3ptar.
 
 ## Mis habilidades
 
-💻 React|Html|Css|Tailwind|Node|Express|vite|vitest|mock|jwt
+💻 Figma | React | Html | Css | Sass | Tailwind | DaisyUI | Bootstrap |  Ts | Js | vite | vitest | mock.
 
-🚀 JS|TS|Html|Css|Figma|React|Vite|Vitest|Node.js|express|Jwt|Jest
+💻 Node.js | express | Jwt | Jest | Bcrypt | Cors | PostgreSQL | Postman | Render | MongoDB | Jetkins | Trello | Scrum.
 
 ## Colaboración
 
 🤟 En mi portfolio dejo los proyectos tipo planillas para la comunidad dev. Espero ayudarlos a reducir 
    sus tiempos de creacion y produccion.
    
-👯 Estoy interesado en colaborar en proyectos relacionados con IA|Ciberseguridad|scraping|manejo de DB.
+🤝 Estoy interesado en colaborar en proyectos relacionados con :
+
+   App Web | Ecommerce |  IA | Pentesting | Ciberseguridad | scraping | manejo de DB. | ciencia de la tecnología.
 
 
 ## Contacto
@@ -40,5 +42,5 @@
 
 
 
-¡Gracias por visitar mi perfil! 😊
+¡ Gracias por visitar mi perfil ! ✨.
 
