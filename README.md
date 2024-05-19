@@ -1,4 +1,4 @@
-![Texto](https://www.canva.com/design/DAGFr5EHEwc/W2ONCR7JSPbCGy2grsR0wA/edit?utm_content=DAGFr5EHEwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Texto](https://raw.githubusercontent.com/hector1489/kaimanProject/main/src/assets/img/Technology%20Service.png)
 # ¡Hola! Soy Hector, desarrollador web Full Stack y cybernauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
