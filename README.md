@@ -1,5 +1,4 @@
-![Texto](https://drive.google.com/file/d/197WNzYCckwzj3SlgKGV5rs_mzQl-Ac6L/view?usp=sharing](https://drive.google.com/drive/folders/1zKK8UwMkq2lul9TkRRE5tSG6NeLXNTqr))
-
+![Texto](https://drive.google.com/file/d/197WNzYCckwzj3SlgKGV5rs_mzQl-Ac6L/view?usp=sharing)
 # ¡Hola! Soy Hector, desarrollador web Full Stack y cybernauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
