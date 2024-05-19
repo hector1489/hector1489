@@ -1,4 +1,4 @@
-![Texto]([https://drive.google.com/file/d/197WNzYCckwzj3SlgKGV5rs_mzQl-Ac6L/view?usp=sharing](https://drive.google.com/file/d/197WNzYCckwzj3SlgKGV5rs_mzQl-Ac6L/view))
+![Texto](https://www.canva.com/design/DAGFr5EHEwc/W2ONCR7JSPbCGy2grsR0wA/edit?utm_content=DAGFr5EHEwc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 # ¡Hola! Soy Hector, desarrollador web Full Stack y cybernauta.
 
 ¡Bienvenido a mi perfil de GitHub! 👋
