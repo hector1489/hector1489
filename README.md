@@ -10,7 +10,7 @@
 
 🌱 Actualmente estoy expandiendo mi experiencia con **Azure, C# y .NET**, construyendo continuamente sobre mis habilidades fundamentales.
 
-Como **desarrollador freelance**, me entusiasma abordar diversos proyectos y entregar resultados de alta calidad.
+💼📊 Como **desarrollador a honorarios y  freelance**, me entusiasma abordar diversos proyectos y entregar resultados de alta calidad.
 
 🎓 Soy graduado en **Desarrollo Web Full Stack**, equipado con el conocimiento para construir aplicaciones de principio a fin.
 
