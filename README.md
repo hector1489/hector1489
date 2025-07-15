@@ -50,7 +50,6 @@ Utilizo un conjunto completo de herramientas y tecnologías para dar vida a las 
 * Desarrollo de Aplicaciones Web
 * Soluciones de Comercio Electrónico (E-commerce)
 * Inteligencia Artificial (IA)
-* Ciberseguridad y Pruebas de Penetración (Pentesting)
 * Web Scraping
 * Gestión Avanzada de Bases de Datos
 * Ciencia de la Tecnología Aplicada
