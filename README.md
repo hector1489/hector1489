@@ -26,10 +26,10 @@ Utilizo un conjunto completo de herramientas y tecnologías para dar vida a las 
 
 ### Desarrollo Frontend
 * **UI/UX y Diseño:** Figma
-* **Frameworks y Librerías:** React
+* **Frameworks y Librerías:** React, Angular
 * **Maquetación y Estilos:** HTML, CSS, Sass, Tailwind CSS, DaisyUI, Bootstrap
 * **Lenguajes:** TypeScript, JavaScript
-* **Herramientas de Construcción y Testing:** Vite, Vitest, Mock
+* **Herramientas de Construcción y Testing:** Vite, Vitest, Mock, Next.js
 
 ### Desarrollo Backend y DevOps
 * **Entorno de Ejecución y Frameworks:** Node.js, Express
@@ -38,7 +38,7 @@ Utilizo un conjunto completo de herramientas y tecnologías para dar vida a las 
 * **Bases de Datos:** PostgreSQL, MongoDB
 * **Testing de APIs:** Postman
 * **CI/CD y Gestión de Proyectos:** Jenkins, Trello, Scrum
-* **Plataformas de Despliegue:** Render, Netlify, Hostinger, AWS
+* **Plataformas de Despliegue:** Render, Netlify, Hostinger, AWS,etc.
 
 ---
 
@@ -61,8 +61,14 @@ Utilizo un conjunto completo de herramientas y tecnologías para dar vida a las 
 No dudes en contactarme para discutir posibles colaboraciones o simplemente para charlar sobre tecnología.
 
 📫 Email: g.p.hector.alejandro@gmail.com
+
 🔗 LinkedIn: [linkedin.com/in/hgonzalezpastenes](https://www.linkedin.com/in/hgonzalezpastenes/)
+
 🌐 Mi Portafolio: [reptar1.netlify.app](https://reptar1.netlify.app/)
+
+🛒 Mi App Store Templates : [https://r3ptar-store.xyz/](https://r3ptar-store.xyz/)
+
+🔗 All links : [https://hector1489.github.io/ptn_rtr/](https://hector1489.github.io/ptn_rtr/)
 
 ---
 
